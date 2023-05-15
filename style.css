@@ -1,0 +1,74 @@
+body {
+  font-family: sans-serif;
+  background-color: white;
+}
+
+h1 {
+  background-image: linear-gradient(to right,white,#1ee2f7 );
+  padding:0px 0px 0px 15px;
+  border-left-style: solid;
+  border-left-width: 7px;
+  color: #125a62;
+}
+
+#navigation {
+  border-right-style: solid;
+  border-right-color: #32a6b3; 
+  text-align: center;
+  width: 20%;
+  height: 530px;
+  position: absolute;
+  top: 75px;
+  background-color: #ebece6;
+}
+
+#chapters {
+  width: 78%;
+  height: 530px;
+  position: absolute;
+  right: 6px;
+  top: 75px;
+  overflow-y: auto;
+}
+
+pre {
+  font-size: 16px;
+}
+
+.titre {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  background-image: linear-gradient(to right,white,#1ee2f7 );
+  border-width: 1px;
+  color: #115d60;
+  padding:10px 0px 10px 15px;
+}
+
+.fragment{
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px; 
+  display: inline-block;
+  margin: 20px 0px 10px 0px;
+  padding: 10px 30px 10px 30px;
+  left: 0px;
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  background-color:white;
+  color:#54c3dd;
+}
+
+.fragment:hover, .fragment:active {
+  background-color:#54c3dd;
+  color:white;
+}
+
+.content {
+  background-color: #ebece6;
+  border-left-style: solid;
+  border-left-color: #32a6b3;
+  padding:1px;
+  overflow: scroll;
+}
