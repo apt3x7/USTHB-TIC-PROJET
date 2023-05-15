@@ -1,7 +1,10 @@
 # USTHB-TIC-PROJET
-## Membres
--test
--test
--test
--test
+
+## Membres de group
+-test\n
+-test\n
+-test\n
+-test\n
+-test\n
+-test\n
 
