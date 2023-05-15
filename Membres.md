@@ -1,10 +1,10 @@
 # USTHB-TIC-PROJET
-
-## Membres de group
-- test  
-- test  
-- test  
-- test  
-- test  
-- test  
+## SECTION 1 
+### Membres de group
+- BOUZIDI Abdeslam 212131058447  
+- ZIAN 
+- REZIG Mohamed Rayane 212131066930 
+- MERABTINE Farouk 212131096443
+- 
+-   
 
