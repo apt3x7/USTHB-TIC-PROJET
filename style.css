@@ -66,6 +66,7 @@ a:link, a:visited {
 }
 
 .content {
+  font-size: 15px;
   background-color: #ebece6;
   border-left-style: solid;
   border-left-color: #32a6b3;
